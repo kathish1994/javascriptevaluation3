@@ -55,6 +55,19 @@ console.log(i);
 }, 10);
 }
 ```
+## Output
+```Javascript
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+```
 ## 5. Explain the Class instance method and static method with an example?
 ## class instance
 ```Javascript
