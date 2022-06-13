@@ -7,7 +7,6 @@ class Student {
     console.log(`name: ${name2},mark: ${mark}`);
   }
 }
-let detail1 = new Student("kathish", 999);
+let detail1 = new Student("kathish", 63);
 console.log(detail1);
-Student.staticMethod("pradeep", 1000);
-
+Student.staticMethod("pradeep", 75);
